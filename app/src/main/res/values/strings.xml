@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chroma</string>
+    <string name="doot">Before using this Application, you need to use adb tools to grant permission, copy below command and exec it on a PC:\\n\\n%1$s\\n\\nOr you can use root to grant permission.</string>
+</resources>
